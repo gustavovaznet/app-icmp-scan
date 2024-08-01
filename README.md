@@ -1,2 +1,2 @@
-# app-icmp-scan
-ICMP Scan
+# ICMP Scan
+Simple ICMP Scan.

@@ -1,2 +1,2 @@
 # ICMP Scan
-Simple ICMP Scan.
+Just a simple ICMP Scan.
